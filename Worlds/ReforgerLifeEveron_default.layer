@@ -1,0 +1,21 @@
+PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords -6.65 0 24.756
+}
+SCR_BaseGameMode GameMode_Plain : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
+ components {
+  SCR_AutomaticRespawnHandlerComponent "{56B4EA4DA0EEFF85}" {
+   m_iForcedFaction 0
+   m_iForcedLoadout 0
+  }
+ }
+ coords 1.69 3.988 3.022
+}
+SCR_FactionManager FactionManager_FFA : "{A1C54BBE72C5C696}Prefabs/MP/Managers/Factions/FactionManager_FFA.et" {
+ coords 1.565 0 13.968
+}
+HitRegistrationManager HitRegManager : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+ coords -1.202 0 15.5
+}
+SCR_LoadoutManager LoadoutManager_FFA : "{B7E5D7F4864D81C0}Prefabs/MP/Managers/Loadouts/LoadoutManager_FFA.et" {
+ coords -6.519 0 28.474
+}

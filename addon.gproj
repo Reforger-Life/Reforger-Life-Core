@@ -1,0 +1,8 @@
+GameProject {
+ ID "ReforgerLife"
+ GUID "596B5D0A65B8C2D4"
+ TITLE "ReforgerLife"
+ Dependencies {
+  "58D0FB3206B6F859" "5614BBCCBB55ED1C"
+ }
+}
